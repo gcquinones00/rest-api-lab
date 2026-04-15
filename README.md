@@ -4,7 +4,7 @@
 
 This project is part of the *CIT Data-Driven Cloud Applications* coursework at Purdue University. The objective of this assignment is to design and implement a basic RESTful API using Node.js, demonstrating how web services handle HTTP requests and return structured data responses.
 
-The lab focuses on understanding how REST APIs function as a core component of modern cloud applications, enabling communication between clients and servers through standardized HTTP methods such as GET, POST, PUT, and DELETE. REST APIs are widely used in cloud-based systems to expose and interact with data-driven services. ([arXiv][1])
+The lab focuses on understanding how REST APIs function as a core component of modern cloud applications, enabling communication between clients and servers through standardized HTTP methods such as GET, POST, PUT, and DELETE. REST APIs are widely used in cloud-based systems to expose and interact with data-driven services.
 
 ---
 
