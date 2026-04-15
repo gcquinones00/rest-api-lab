@@ -22,7 +22,6 @@ The lab focuses on understanding how REST APIs function as a core component of m
 
 * Node.js
 * JavaScript
-* Express.js (if used in your project)
 
 ---
 
