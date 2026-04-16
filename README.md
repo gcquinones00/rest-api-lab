@@ -1,4 +1,4 @@
-# REST API Lab
+# Lab 2.1 : REST API Introduction
 
 ## Overview
 
